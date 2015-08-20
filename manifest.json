@@ -1,0 +1,27 @@
+{ 
+  "manifest_version": 2,
+  "name": "AntirandoMe",
+  "version": "1.0",
+  "description": "Antirandom the Random.org",
+  "author": "Артур Гаузер",
+  "icons": {
+    "196": "196.png"
+  },
+  
+  "background": {
+    "scripts": [ "js/background.js" ]
+  },
+  
+  "content_scripts": [
+  {
+    "matches": [ "https://www.random.org/*" ],
+    "js": [ "js/jquery.min.js","js/main.js" ],
+    "run_at" : "document_idle",
+    "all_frames" : true
+}
+  ],
+  "permissions": [
+    "activeTab",
+	"https://www.random.org/"
+  ]
+}
