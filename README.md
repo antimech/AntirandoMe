@@ -1,5 +1,5 @@
 # AntirandoMe
-Antirandom the Random.org
+Antirandom the Random.org - Chrome Extension
 
 
 1) Click Chrome Extensions Developer Mode.
