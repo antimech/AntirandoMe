@@ -10,11 +10,11 @@ Antirandom the Random.org - Chrome Extension [YouTube]
 Credits
 -------
 
-Author: Gabriele Mariotti (gabri.mariotti@gmail.com)
+Author: Artur Gauzer
 
 <a href="https://plus.google.com/+АртурГаузер">
   <img alt="Follow me on Google+"
-       src="https://github.com/gabrielemariotti/cardslib/raw/master/demo/images/g+64.png" />
+       src="https://ssl.gstatic.com/images/branding/google_plus/2x/gplus_word_108x30dp.png" />
 </a>
 
 License
