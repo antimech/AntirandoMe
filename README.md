@@ -1,9 +1,9 @@
 # AntirandoMe
 Antirandom the Random.org - Chrome Extension [YouTube]
 
-1) Click "Extensions -> Developer Mode".
+1) Click `Extensions` -> `Developer Mode`.
 
-2) Load Unpacked Extension...
+2) `Load Unpacked Extension...`
 
 3) Choose AntirandoMe directory.
 
