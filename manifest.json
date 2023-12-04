@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "AntirandoMe",
-  "version": "1.0",
+  "version": "0.1.0",
   "description": "Antirandom the Random.org",
   "author": "Артур Гаузер",
   "icons": {
