@@ -16,7 +16,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.random.org/"
+        "https://www.random.org/*"
       ],
       "js": [
         "js/jquery.min.js",
